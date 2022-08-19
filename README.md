@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himani-Patil
 - 👀 I’m interested in Programming, Project management, Cyber security.
-- 🌱 I'm student of Computer Engineering.
+- 🌱 I'm student of Computer Engineering @_Cummins College of Ebgineering for Women,Pune.
 
 <!---
 Himani-Patil/Himani-Patil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
