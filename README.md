@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himani-Patil
-- 👀 I’m interested in Programming, Project management, Cyber security.
+- 👀 I’m interested in Programming, Project management, Cyber security, Machine Learning.
 - 🌱 I'm student of Computer Engineering @_Cummins College of Ebgineering for Women,Pune.
 
 <!---
